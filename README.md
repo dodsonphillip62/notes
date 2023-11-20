@@ -18,3 +18,6 @@ Let's GO
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a task, take the time to plan out your approach. Think about the different aspects of the problem and how you will approach them. Creating a plan will give you a clear roadmap to follow, making it easier to stay focused and avoid getting lost in the weeds. 
  -- 212个词
+
+# 2023-11-20
+- "Keep it simple, stupid!"
