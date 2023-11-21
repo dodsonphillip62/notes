@@ -21,3 +21,11 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 
 # 2023-11-20
 - "Keep it simple, stupid!"
+
+# 2023-11-21
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
+ --
+ Second, wisely plan and allocate your timetime. Set aside specific blocks of time for each task, taking into account the complexity and importance of the task. For example, if you needto perform a complex analysis, allocate more time than ifyou were just fixing a small bug. Also, don't forget to take breaks every now and then to avoid burnout and maintain your focus. Using a timer or scheduling tool like Pomodoro Technique can help with this.- ---
+ Finally, stayorganized. Keep your code, project files,and documentation well-organized and up-to-date.This will make it easier for you and other team members to find and understand the code. Follow a consistent coding style and convention, use version control systems like Git, keep your editor or IDE well configured, follow the principles of DRY (Don'ts Repeat Yourself) and KISS (Keep It Simple, Stupid).
