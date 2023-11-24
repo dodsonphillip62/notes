@@ -44,3 +44,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 - "Every line of code you write is a liability. It will have to be maintained, debugged, tested, and understood by someone else in the future. Therefore, always strive to write clean, simple, and readable code that minimizes the amount of code you need to write." 
 
 This quote emphasizes the importance of writing high-quality code that is easy to understand and maintain. Every line of code we write has the potential to create problems down the road, so it's important to be mindful of this as we write our code. By striving to write clean, simple, and readable code, we can minimize the amount of code we need to write, which in turn reduces the likelihood of introducing bugs or making mistakes. Ultimately, this leads to more efficient and effective software development.
+
+# 2023-11-24
+- "Keep it simple, stupid!"
