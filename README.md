@@ -124,3 +124,14 @@ Additionally, it is important to learn new programming languages and technologie
 
 # 2023-12-12
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clear, understandable code first and optimize only when necessary.
+
+# 2023-12-13
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. List your tasks: Start by creating a list of all the tasks you need to complete. It can be a simple to-do list or a more detailed project plan.
+2. Prioritize: Evaluate the importance and urgency of each task. Use a priority matrix to sort them into four categories: critical, important, nice-to-have, or low priority. Focus on the critical and important tasks first. 
+3. Break down complex tasks into smaller steps: This makes it easier to manage and track your progress. Each step should be specific, measurable, achievable, relevant, timely, repeatable (SMART).  
+4. Allocate time: Estimate how long each step will take and add up the time for all steps. Then, allocate time based on your availability and the deadlines for each tasks. Don't forget to allow for some buffer time in case something takes longer than expected.   
+5. Set reminders and deadlines: Use tools like calendars, task management apps, email, Slack, etc. to set reminders for important deadlines and check-in times. Following up on tasks and meeting deadlines is crucial for staying organized and on track.    
+6. Stay organized: Keep your workspace clean and clutter-free. Organize your code, files, folders, libraries, tools, settings, shortcuts, keyboard shortcut, preferences, plugins, modules, dependencies, version control, documentation, comments, tests, code reviews, pull requests, meetings, demos, presentations, slides, diagrams, models, data, reports, analytics, feedback, ideas, plans, designs, prototypes, wireframes, mockups, screenshots, videos, recordings, logs, notes, todos, schedules, calendars. Everything should have a place and be easy to find and access.     
+7. Learn and grow: Always be learning new skills, technologies, methodologies, best practices, patterns, frameworks, languages, platforms, editors, IDEs, debuggers, performance analyzers, profilers, versions, releases, deployments, integrations, APIs, SDKs, CLIs, DDLs. Keep up with the latest trends and developments in the industry. Share your knowledge and learn from others.
