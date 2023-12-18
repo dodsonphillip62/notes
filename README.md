@@ -162,3 +162,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 - Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This can help you become a more valuable asset to your team or organization and increase your job security.
 
 One way to achieve this is by setting goals and deadlines for yourself to learn new skills or complete projects. By staying focused and disciplined, you can make significant progress in your programming abilities. Additionally, participating in online forums, attending conferences, and reading industry blogs can provide valuable insights and connections with other professionals in the field.
+
+# 2023-12-18
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to complex, hard-to-maintain code. It's better to write simple, clear code first and optimize only where necessary, based on profiling and performance measurements.
