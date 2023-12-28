@@ -206,3 +206,10 @@ In essence, prioritize clarity and simplicity in your programming endeavors as i
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them. 
  其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以为每个任务分配特定的时间段，以确保你在一天中为每一个任务都分配了足够的时间。避免在一天中的同一时间处理相同的任务，因为这可能导致效率低下。同时，确保在完成任务时留出足够的时间和精力来审查和测试你的代码。 此外，保持组织。使用版本控制系统（如Git）来跟踪你的更改和代码的更新。这将帮助你更容易地回滚到之前的版本，同时也可以让你更容易地发现和修复错误。
  最后，不断学习和提高。编程是一个不断发展的领域，要想在这个领域取得成功，你需要不断学习新的技术和方法。阅读博客、参加在线课程和研讨会，以及与其他程序员交流，都是提高编程技能的有效方法
+
+# 2023-12-28
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge base. This involves staying up-to-date with new technologies, programming languages, and development tools. By doing so, you will be better equipped to adapt to the ever-changing world of technology and software development.
+
+To be successful in the programming field, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. These concepts will serve as the foundation for your understanding of more advanced topics and techniques. Additionally, practice makes perfect, so it' s important to keep practicing and refining your programming skills through projects and exercises. 
+ - 学习编程的智慧是成为终身学习者，不断更新你的技能和知识库。这包括跟上新的技术、编程语言和开发工具。通过这样做，你将更好地适应不断变化的科技和软件开发世界。
+- 要成功从事编程工作，有必要在核心概念（如数据结构、算法、计算机架构、操作系统等）上打下坚实的基础。这些概念将为你更高级的主题和技巧的理解奠定基础。此外，实践使完美，因此通过项目和练习来不断练习和提高你的编程技能很重要。
