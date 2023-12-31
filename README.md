@@ -219,3 +219,6 @@ To be successful in the programming field, it is essential to have a solid found
 
 # 2023-12-30
 - "Keep it simple, stupid!"
+
+# 2023-12-31
+- Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read far more often than it is written. Strive for clarity and simplicity in your expressions, variable names, and overall structure. Comment your code effectively, explaining the why rather than the what. Refactor regularly to eliminate complexity and duplication. Remember that tomorrow, the person who will struggle the most to understand your code might be you. Lastly, cultivate a mindset of continuous learning, as programming languages and best practices are constantly evolving.
