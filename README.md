@@ -300,3 +300,10 @@ In more detail, this quote emphasizes that trying to optimize code too early in 
 "Code is read far more often than it is written. Optimize for readability and maintainability first, as these qualities directly impact the long-term efficiency and success of any software project."
 
 This quote emphasizes that while writing efficient code is important, ensuring that your code can be easily understood and modified by others (or even yourself in the future) is a crucial aspect of good software development. It encourages developers to write clean, well-structured, and self-explanatory code to save time and effort during debugging, enhancements, and collaborations.
+
+# 2024-01-15
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them. 
+ 其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你避免在项目过程中出现不必要的延误和错误。使用版本控制系统（如Git）可以帮助你更好地跟踪代码更改，从而更容易地回滚到之前的版本，以便在需要时进行调整。
+ 最后，保持组织。一个干净、有组织的代码库可以帮助您更轻松地找到和修复错误，同时也有助于提高代码的可读性和可维护性。遵循编程最佳实践，如使用有意义的变量名、添加注释和遵循代码风格指南，可以帮助确保您的代码易于理解和维护。
